@@ -8,7 +8,7 @@ hr { color: hsl(229, 23%, 23%);}
 
 
 
-.attribution { position: relative; top: 20px; font-size: 11px; text-align: center; color: hsl(227, 10%, 46%);}
+.attribution { position: relative; top: 20px; right: 15px; font-size: 11px; text-align: center; color: hsl(227, 10%, 46%);}
 
 .attribution a { color: hsl(229,23%, 23%); }
 
@@ -18,7 +18,15 @@ hr { color: hsl(229, 23%, 23%);}
 
 .bottom-pattern { width: 40%; position: relative; left: 100px; top: 400px;}
 
-.card { position: absolute; top: 200px; right:400px; background-color: white; border-radius: 25px;}
+.card { position: absolute; top: 200px; right:450px; background-color: white; border-radius: 25px;}
+
+/*.card {
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+    background-color: white;
+    border-radius: 25px;
+    width: 30%;*/
 
 .pattern-card{ display: block; border-radius: 25px 25px 0 0;}
 
