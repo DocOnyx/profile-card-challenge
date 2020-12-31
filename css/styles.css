@@ -1,0 +1,38 @@
+
+
+body { background-color: hsl(185, 75%, 39%); font-family: "Kumbh Sans"; color: hsl(0, 0%, 59%); font-size: 0.75em;}
+
+p { display: inline-block; padding-left: 10px; line-height: 1px;}
+
+hr { color: hsl(229, 23%, 23%);}
+
+
+
+.attribution { position: relative; top: 20px; font-size: 11px; text-align: center; color: hsl(227, 10%, 46%);}
+
+.attribution a { color: hsl(229,23%, 23%); }
+
+.layout{width: 1440px; height: auto;}
+
+.top-pattern { width: 40%; position: relative; right: 100px; bottom: 200px;}
+
+.bottom-pattern { width: 40%; position: relative; left: 100px; top: 400px;}
+
+.card { position: absolute; top: 200px; right:400px; background-color: white; border-radius: 25px;}
+
+.pattern-card{ display: block; border-radius: 25px 25px 0 0;}
+
+.pic {border-radius: 50%; position: relative; left: 125px; bottom: 30px; border: solid; border-color: white;}
+
+.place {position: relative; left: 140px; font-size: 1rem;;}
+
+.p2 { padding-right: 20px; padding-bottom: 0px;}
+
+.lower-row { text-align: center; margin-bottom: 20px;}
+
+.name { font-size: 18px; font-weight: 700; color: hsl(229, 23%, 23%);}
+
+.age {font-size: 1rem;}
+
+.stats { font-size: 18px; font-weight: 700; color: hsl(229, 23%, 23%);}
+
